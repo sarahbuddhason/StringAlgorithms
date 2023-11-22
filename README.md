@@ -46,5 +46,3 @@ A highly efficient method for string searching. Improves upon the naive approach
 - Text search in word processors.
 - Search engines.
 - Data compression algorithms.
-
-In conclusion, the KMP algorithm significantly improves the efficiency of string searching by utilizing the preprocessing of patterns and intelligent skipping during text scanning.
